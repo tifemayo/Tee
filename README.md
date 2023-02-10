@@ -1,3 +1,1 @@
-# Tee
-I am practicing
-lmaoo
+~ practicing
